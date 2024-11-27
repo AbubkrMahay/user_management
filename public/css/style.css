@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.dashboard{
+   background-color: black;
+   padding: 7px;
+   margin: 0px;
+   text-align: center;
+   color: white;
+   border: 2px solid white;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    height: 82vh;
+    max-width: 20%;
+    background-color: black;
+    border-right: 2px solid white;
+    border-left: 2px solid white;
+}
+.box{
+    width: 100%;
+    background-color:black;
+    text-align: center;
+    color: white;
+    border-bottom: 2px solid white;
+}
